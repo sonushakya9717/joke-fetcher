@@ -71,6 +71,10 @@ sudo -i -u postgres
 ```
 
 ```bash
+psql
+```
+
+```bash
   CREATE USER username WITH PASSWORD password;
 ```
 create a database with database name users_data
